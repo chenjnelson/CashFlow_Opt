@@ -1,4 +1,4 @@
-#Cash Flow Matching Program
+Cash Flow Matching Program
 ------
 [Cash flow matching](https://www.investopedia.com/articles/investing/022615/portfolio-immunization-vs-cash-flow-matching.asp) is a portfolio construction technique used to manage liabilities in the future. It's a dedication strategy where the intent is to form a portfolio  at an onset, typically of bonds, where the cash inflows are met with cash outflows - thus absolving the need to buy or sell assets in the future.
 
